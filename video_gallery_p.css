@@ -37,23 +37,23 @@
 	font            : 9pt 'Arial', Helvetica, sans-serif;
 	color           : #000000;
 	}
-span#e71            { /* tkd009035.gif */
-	background      : transparent url(tkd009035.gif) no-repeat top left;
+span#e65            { /* tkd009032.gif */
+	background      : transparent url(tkd009032.gif) no-repeat top left;
 	position        : absolute;
 	left            :  69.00pt;
 	top             :   3.00pt;
 	width           : 616.50pt;
-	height          :1122.75pt;
+	height          : 926.25pt;
 	}
-span#e70            { /* tkd009034.gif */
-	background      : transparent url(tkd009034.gif) no-repeat top left;
+span#e64            { /* tkd009031.gif */
+	background      : transparent url(tkd009031.gif) no-repeat top left;
 	position        : absolute;
 	left            :  72.75pt;
 	top             : 151.50pt;
 	width           : 609.00pt;
 	height          :  37.50pt;
 	}
-span#e69            { /* tkd001024.jpg */
+span#e63            { /* tkd001024.jpg */
 	background      : transparent url(tkd001024.jpg) no-repeat top left;
 	position        : absolute;
 	left            :  72.00pt;
@@ -61,129 +61,84 @@ span#e69            { /* tkd001024.jpg */
 	width           : 609.75pt;
 	height          : 163.50pt;
 	}
-img#e68             { /* tkd001002.jpg */
+img#e62             { /* tkd001002.jpg */
 	position        : absolute;
-	left            : 459.00pt;
-	top             :1078.50pt;
+	left            : 461.25pt;
+	top             : 879.00pt;
 	width           : 211.50pt;
 	height          :  18.75pt;
 	}
-div#e67             { /* © copyright 2015 taekwon... */
+div#e61             { /* © copyright 2015 taekwon... */
 	position        : absolute;
-	left            :  77.25pt;
-	top             :1075.50pt;
+	left            :  79.50pt;
+	top             : 876.00pt;
 	width           : 378.00pt;
 	height          :  16.50pt;
 	}
-div#e66             { /* +447718590243 | taekwond... */
+div#e60             { /* +447718590243 | taekwond... */
 	position        : absolute;
-	left            :  77.25pt;
-	top             :1090.50pt;
+	left            :  79.50pt;
+	top             : 891.00pt;
 	width           : 378.00pt;
 	height          :  12.00pt;
 	}
-span#e65            { /* tkd009033.gif */
-	background      : transparent url(tkd009033.gif) no-repeat top left;
+span#e59            { /* tkd009030.gif */
+	background      : transparent url(tkd009030.gif) no-repeat top left;
 	position        : absolute;
 	left            :  77.25pt;
-	top             : 786.00pt;
+	top             : 501.00pt;
 	width           : 401.25pt;
 	height          : 262.50pt;
 	}
-span#e64            { /* tkd009032.gif */
-	background      : transparent url(tkd009032.gif) no-repeat top left;
+span#e58            { /* tkd009029.gif */
+	background      : transparent url(tkd009029.gif) no-repeat top left;
 	position        : absolute;
 	left            :  77.25pt;
-	top             : 786.00pt;
+	top             : 501.00pt;
 	width           : 401.25pt;
 	height          :  21.75pt;
 	}
-div#e63             { /* WALESTKD CLUB COMPETITIO... */
+div#e57             { /* WALESTKD CLUB COMPETITIO... */
 	position        : absolute;
 	left            :  85.50pt;
-	top             : 792.00pt;
+	top             : 507.00pt;
 	width           : 255.75pt;
 	height          :  12.75pt;
 	}
-span#e62            { /* tkd009031.gif */
-	background      : transparent url(tkd009031.gif) no-repeat top left;
+span#e56            { /* tkd009028.gif */
+	background      : transparent url(tkd009028.gif) no-repeat top left;
 	position        : absolute;
 	left            :  77.25pt;
 	top             : 197.25pt;
 	width           : 401.25pt;
 	height          :  21.75pt;
 	}
-div#e61             {
+div#e55             {
 	position        : absolute;
 	left            :  79.50pt;
-	top             : 809.25pt;
+	top             : 524.25pt;
 	width           : 396.75pt;
 	height          : 237.00pt;
 	}
-div#e60             { /* &lt; Gallery 2013 to 201... */
+div#e54             { /* &lt; Gallery 2013 to 201... */
 	position        : absolute;
 	left            :  86.25pt;
 	top             : 202.50pt;
 	width           : 117.00pt;
-	height          :  12.75pt;
+	height          :  12.00pt;
 	}
-div#e59             { /* &lt; Video Gallery &gt; */
+div#e53             { /* &lt; Video Gallery &gt; */
 	position        : absolute;
 	left            : 210.00pt;
 	top             : 202.50pt;
 	width           :  78.00pt;
 	height          :  12.00pt;
 	}
-span#e58            { /* tkd009030.gif */
-	background      : transparent url(tkd009030.gif) no-repeat top left;
-	position        : absolute;
-	left            :  77.25pt;
-	top             : 507.75pt;
-	width           : 401.25pt;
-	height          : 279.00pt;
-	}
-span#e57            { /* tkd009029.gif */
-	background      : transparent url(tkd009029.gif) no-repeat top left;
-	position        : absolute;
-	left            :  77.25pt;
-	top             : 507.75pt;
-	width           : 401.25pt;
-	height          :  21.75pt;
-	}
-span#e56            { /* tkd009028.gif */
-	background      : transparent url(tkd009028.gif) no-repeat top left;
-	position        : absolute;
-	left            :  77.25pt;
-	top             : 549.75pt;
-	width           : 401.25pt;
-	height          :   0.75pt;
-	}
-div#e55             { /* ITF EUROPEAN CHAMPIONSHI... */
-	position        : absolute;
-	left            :  85.50pt;
-	top             : 513.75pt;
-	width           : 257.25pt;
-	height          :  12.75pt;
-	}
-div#e54             { /* UKTA HOSTING THE EUROPEA... */
-	position        : absolute;
-	left            :  85.50pt;
-	top             : 534.75pt;
-	width           : 388.50pt;
-	height          :  12.75pt;
-	}
-div#e53             {
-	position        : absolute;
-	left            :  79.50pt;
-	top             : 551.25pt;
-	width           : 396.75pt;
-	height          : 231.75pt;
-	}
 span#e52            { /* tkd009027.gif */
 	background      : transparent url(tkd009027.gif) no-repeat top left;
 	position        : absolute;
 	left            :  77.25pt;
-	top             : 229.50pt;
+	top             : 222.75pt;
 	width           : 401.25pt;
 	height          : 279.00pt;
 	}
@@ -191,7 +146,7 @@ span#e51            { /* tkd009026.gif */
 	background      : transparent url(tkd009026.gif) no-repeat top left;
 	position        : absolute;
 	left            :  77.25pt;
-	top             : 229.50pt;
+	top             : 222.75pt;
 	width           : 401.25pt;
 	height          :  21.75pt;
 	}
@@ -199,28 +154,28 @@ span#e50            { /* tkd009025.gif */
 	background      : transparent url(tkd009025.gif) no-repeat top left;
 	position        : absolute;
 	left            :  77.25pt;
-	top             : 271.50pt;
+	top             : 264.75pt;
 	width           : 401.25pt;
 	height          :   0.75pt;
 	}
 div#e49             { /* ITF EUROPEAN CHAMPIONSHI... */
 	position        : absolute;
 	left            :  85.50pt;
-	top             : 235.50pt;
+	top             : 228.75pt;
 	width           : 257.25pt;
 	height          :  12.75pt;
 	}
-div#e48             { /* 2016 European ITF Taekwo... */
+div#e48             { /* UKTA HOSTING THE EUROPEA... */
 	position        : absolute;
 	left            :  85.50pt;
-	top             : 256.50pt;
+	top             : 249.75pt;
 	width           : 388.50pt;
 	height          :  12.75pt;
 	}
 div#e47             {
 	position        : absolute;
 	left            :  79.50pt;
-	top             : 273.75pt;
+	top             : 266.25pt;
 	width           : 396.75pt;
 	height          : 231.75pt;
 	}
@@ -574,7 +529,7 @@ div#page            { /* Page Holder */
 	background-color: transparent;
 	position        : relative;
 	width           : 745.50pt;
-	height          :1350.00pt;
+	height          :1125.00pt;
 	text-align      : left;
 	margin-left     : auto;
 	margin-right    : auto;
